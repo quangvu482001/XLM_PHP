@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<qlsv>
+    
+    <Sinhvien>
+        <Masv>LT002</Masv>
+        <Hoten>Nguyen Thi Dieu Nhi</Hoten>
+        <Gioitinh>Nu</Gioitinh>
+    </Sinhvien>
+<Sinhvien><Masv>LT001</Masv><Hoten>Nguyen Van A</Hoten><Gioitinh>Nam</Gioitinh></Sinhvien></qlsv>

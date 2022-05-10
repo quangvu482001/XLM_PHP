@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<qlmh>
+    <Monhoc>
+        <Mamon>M01</Mamon>
+        <Tenmon>C++</Tenmon>
+        <SoTC>3</SoTC>
+    </Monhoc>
+    <Monhoc>
+        <Mamon>M02</Mamon>
+        <Tenmon>XML</Tenmon>
+        <SoTC>8</SoTC>
+    </Monhoc>
+<Monhoc><Mamon>M03</Mamon><Tenmon>Toan</Tenmon><SoTC>4</SoTC></Monhoc></qlmh>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QLNS>
+	<nhanvien>
+		<Manv>111</Manv>
+		<Hoten>quang</Hoten>
+		<Gioitinh>nam</Gioitinh>
+		<Ngaysinh>15/10/2012</Ngaysinh>
+		<Diachi>Nam dinh</Diachi>
+	</nhanvien>	
+	
+	<nhanvien>
+		<Manv>112</Manv>
+		<Hoten>nam</Hoten>
+		<Gioitinh>nam</Gioitinh>
+		<Ngaysinh>10/02/2001</Ngaysinh>
+		<Diachi>Ha Nam</Diachi>
+	</nhanvien>	
+	
+	<nhanvien>
+		<Manv>113</Manv>
+		<Hoten>nam1</Hoten>
+		<Gioitinh>nam</Gioitinh>
+		<Ngaysinh>01/02/2001</Ngaysinh>
+		<Diachi>phu xuyen</Diachi>
+	</nhanvien>	
+	<nhanvien>
+		<Manv>114</Manv>
+		<Hoten>a</Hoten>
+		<Gioitinh>nam</Gioitinh>
+		<Ngaysinh>20/12/2001</Ngaysinh>
+		<Diachi>ninh binh</Diachi>
+	</nhanvien>
+</QLNS>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"  xs:noNamespaceSchemaLocation="book.xsd">
+    <book idbn="12">
+        <author>Nguyen Van A</author>
+        <title type="P">C++</title>
+        <edition>1</edition>
+    </book>
+    <book idbn="13">
+        <author>Nguyen Van B</author>
+        <title type="P">Java</title>
+        <edition>2</edition>
+    </book>
+</books>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<qldh>
+    <Donhang>
+        <Makh>123</Makh>
+        <Mahang>H01</Mahang>
+        <Tenhang>Bep tu duc</Tenhang>
+        <Dongia>3000</Dongia>
+    </Donhang>
+
+    <Donhang>
+        <Makh>123</Makh>
+        <Mahang>H02</Mahang>
+        <Tenhang>tivi</Tenhang>
+        <Dongia>10000</Dongia>
+    </Donhang>
+
+    <Donhang>
+        <Makh>122</Makh>
+        <Mahang>H03</Mahang>
+        <Tenhang>May giat</Tenhang>
+        <Dongia>3000</Dongia>
+    </Donhang>
+
+    <Donhang>
+        <Makh>124</Makh>
+        <Mahang>H04</Mahang>
+        <Tenhang>Bep tu</Tenhang>
+        <Dongia>2000</Dongia>
+    </Donhang>
+</qldh>

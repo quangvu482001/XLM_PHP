@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QLD>
+    <SV>
+        <Masv>LT001</Masv>
+        <Mamon>M01</Mamon>
+        <Diem>9.5</Diem>
+    </SV>
+    <SV>
+        <Masv>LT001</Masv>
+        <Mamon>M02</Mamon>
+        <Diem>8</Diem>
+    </SV>
+</QLD>

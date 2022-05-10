@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<qlkh>
+    <Khachhang>
+        <Makh>123</Makh>
+        <Hoten>Manh Nam</Hoten>
+        <Diachi>vinh tuy</Diachi>
+    </Khachhang>
+    
+    <Khachhang>
+        <Makh>124</Makh>
+        <Hoten>thuy van</Hoten>
+        <Diachi>quang ninh</Diachi>
+    </Khachhang>
+<Khachhang><Makh>125</Makh><Hoten>vinh</Hoten><Diachi>dien bien</Diachi></Khachhang></qlkh>

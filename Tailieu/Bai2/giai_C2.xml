@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE thuvien 
+[
+<!ELEMENT thuvien (sach+)>
+<!ELEMENT sach (id, ten, tacGia, nhaXuatBan?, gia?)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT ten (#PCDATA)>
+<!ELEMENT tacGia (#PCDATA)>
+<!ELEMENT nhaXuatBan (#PCDATA)>
+<!ELEMENT gia (#PCDATA)>
+<!ATTLIST sach theloai (Khoahoc|Giaitri|Tinhoc) "Tinhoc">
+<!ATTLIST sach ngonngu CDATA #IMPLIED> 
+<!ENTITY nxbt "nha xuat ban tre">
+<!ENTITY nxbm "nha xuat ban giao duc">
+]
+>
+
+<thuvien>
+    <sach theloai="Khoahoc">
+        <id>S01</id>
+        <ten>C++</ten>
+        <nhaXuatBan>&nxbt;</nhaXuatBan>
+        <gia>100000</gia>
+    </sach>
+    <sach theloai="Vanhoc">
+        <id>S02</id>
+        <ten>Java</ten>
+        <nhaXuatBan>&nxbt;</nhaXuatBan>
+        <gia>200000</gia>
+    </sach>
+</thuvien>
+
+<!-- vao menu xml ktra tinh well form va validate du lieu -->
